@@ -7,3 +7,4 @@ function evenOdd(n){
         console.log("No");
     }
 }
+evenOdd(n);
